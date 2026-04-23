@@ -4,5 +4,5 @@ testare 3
 testare 4 (new)
 testare 5 (vitea)
 
-welcome in organization 
+welcome in organization. 
 v 1
